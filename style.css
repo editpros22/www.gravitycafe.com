@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+background: url(a.avif);
+background-repeat: no-repeat;
+background-size: 1000% auto;
+}
+.all{
+    text-align: center;
+}
+.all p{
+    font-size: large;
+    background-color: darkgoldenrod;
+    
+}
+.all video{
+    width: 250px;
+
+}
+#img{
+    height: 100px;
+    border-radius: 50%;
+    float: inline-start;
+    object-fit: cover;
+}
+.img1{
+    height: 250px;
+    width: 250px;
+}
+.inf{
+    background-color: rgb(28, 30, 30);
+}
+.inf p{
+    color: cornsilk;
+    text-align: center;
+}
