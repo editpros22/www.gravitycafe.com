@@ -2,7 +2,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 background: url(a.avif);
 background-repeat: no-repeat;
-background-size: 1000% auto;
+background-size: 20000% auto;
 }
 .all{
     text-align: center;
@@ -32,4 +32,8 @@ background-size: 1000% auto;
 .inf p{
     color: cornsilk;
     text-align: center;
+}
+.img2{ 
+    height: 420px;
+    width: 350px ;
 }
